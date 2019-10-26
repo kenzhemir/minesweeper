@@ -1,0 +1,25 @@
+{
+  "name": "lab22",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tabs.js",
+  "dependencies": {
+    "jest": "^24.9.0",
+    "jquery": "^3.4.1",
+    "jsdom": "^15.2.0",
+    "prompts": "^2.2.1",
+    "serve": "^11.2.0"
+  },
+  "scripts": {
+    "test": "jest --coverage --silent",
+    "serve": "serve ./coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "jest": {
+    "coverageReporters": [
+      "html"
+    ]
+  }
+}
