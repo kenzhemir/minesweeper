@@ -10,4 +10,4 @@ This is a core module for minesweeper game.
 
 OR
 
--> Go to http://42lab2.surge.sh/
+-> Go to http://42lab2.surge.sh/minesweeper.js.html
