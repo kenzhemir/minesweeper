@@ -1,6 +1,6 @@
 # Minesweeper
 
-This is a core module for minesweeper game.
+The following steps allow to run tests for minesweeper game and evaluate code coverage. Code coverage tool used for evaluation is Jest.
 
 -> Clone repo  
 -> Run `npm install`  
@@ -10,4 +10,4 @@ This is a core module for minesweeper game.
 
 OR
 
--> Go to http://42lab2.surge.sh/minesweeper.js.html
+-> Go to http://42lab2.surge.sh/minesweeper.js.html to get the results
