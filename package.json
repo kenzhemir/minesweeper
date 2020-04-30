@@ -5,7 +5,7 @@
   "main": "tabs.js",
   "dependencies": {
     "jest": "^24.9.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jsdom": "^15.2.0",
     "prompts": "^2.2.1",
     "serve": "^11.2.0"
